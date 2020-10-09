@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Vehicle Management</string>
+    <string name="title_activity_detailed_vehicle">DetailedVehicle</string>
+    <string name="title_activity_detailed_display">DetailedDisplay</string>
+    <string name="vehicle">Vehicle</string>
+    <string name="edit_vehicle">Edit a vehicle</string>
+    <string name="add_vehicle">Add a vehicle</string>
+    <string name="price">Price</string>
+    <string name="make">Make</string>
+    <string name="year">Year</string>
+    <string name="model">Model</string>
+    <string name="license_number">License Number</string>
+    <string name="colour">Colour</string>
+    <string name="body_style">Body Style</string>
+    <string name="transmission">Transmission</string>
+    <string name="mileage">Mileage</string>
+    <string name="fuel_type">Fuel type</string>
+    <string name="engine_size">Engine size</string>
+    <string name="number_doors">Number doors</string>
+    <string name="condition">Condition</string>
+    <string name="notes">Notes</string>
+    <string name="title_activity_detail_add">DetailAdd</string>
+
+
+</resources>
